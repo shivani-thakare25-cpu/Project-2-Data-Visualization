@@ -1,0 +1,37 @@
+
+============================================================
+             DATA VISUALIZATION PROJECT REPORT
+============================================================
+
+Dataset: Titanic Passenger Dataset
+
+Total passengers analyzed : 784
+Passengers who survived   : 323
+Overall survival rate     : 41.20%
+Average passenger age     : 29.65 years
+Average ticket fare       : 34.71
+
+Survival rate by gender:
+sex
+female    74.06
+male      21.59
+
+Survival rate by passenger class:
+class
+First     63.08
+Second    50.91
+Third     25.68
+
+KEY OBSERVATIONS:
+1. The bar chart compares the number of passengers
+   across first, second and third classes.
+2. The scatter plot compares passenger age and ticket fare.
+3. The histogram displays the distribution of ages.
+4. The box plot compares ticket fares and identifies
+   possible outliers.
+5. The correlation heatmap shows the strength and direction
+   of linear relationships between numerical variables.
+6. The survival chart compares survival counts by gender.
+
+Note: Correlation does not prove causation.
+============================================================
